@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...non knovlege coding math physics 
 - 🌱 I’m currently learning ...jsn
 - 💞️ I’m looking to collaborate on ...lurk circle project
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://orcid.org/
+0009-0009-4958-9809
 
 <!---
 brl33/brl33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
