@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @brl33/karol.j.pawlowski
-- 👀 I’m interested in ...non knovlege coding math physics 
-- 🌱 I’m currently learning ...jsn
-- 💞️ I’m looking to collaborate on ...lurk circle project
-- 📫 How to reach me ...https://orcid.org/
-0009-0009-4958-9809
-
-<!---
-brl33/brl33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+QRC03010002eJxlkMtugzAQRX8mYlteiaASC2iICcUm4WGDd4DTErB5JA2UfH1pt12MNJqjq9G5jj5BdMnsKriSLu+fIVfmxLas10Rg7ehGnAne0Nie4adlSbJUeJFceXAXLOY9ELTOVXwtVfMWCDSV8XrrnL7am8qJ1DLzbA5ll8M2X4d+0ax/FGR78xMfMLWumYfqynO6qsNz+YSznyBAhd+UgLfr7sYZc9LG/U54xHMRjZUXIbKvRyhvtUt31kPXV6GGccSHGWqHXYVpWmicYqD0Zdta0tY0DEOS8DgM07QHcaO+xy2r2Xg7Rr868MEfprBjkw7YDg8u9sUHW8Hmn/z5Tx4m7RI0rhq+6Qtc9AWtTUmGvH4AGPWnCcAiM8AVCV2Q9GVeM2RMlVKkZ0wurDnNAt8BCVew+QGreHtC
